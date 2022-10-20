@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">गतिविधि प्रवाह</string>
+    <string name="hyperlink">अहिले नै दर्ता गर्नुहोस</string>
+    <string name="text1">दर्त हुनुहुन्न?</string>
+    <string name="text3">नमस्कार</string>
+    <string name="text4">फेरी स्वागत छ</string>
+    <string name="mainusername">प्रयोगकर्ता नाम</string>
+    <string name="passwordfield">पासवर्ड</string>
+    <string name="recover">पस्स्वर्ड बिर्सिनुभएमा </string>
+    <string name="signin">साइन इन</string>
+    <string name="signup">Sign up</string>
+    <string name="continuewith">वा जारी राख्नुहोस्</string>
+
+</resources>
